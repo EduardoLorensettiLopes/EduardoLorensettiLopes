@@ -15,7 +15,7 @@
     <h3>These are my social networks:</h3>
     <br>
     <a href="https://www.instagram.com/eduu_lorenzetti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    alt="logo-instagram"></a> 
-    <a href="https://www.linkedin.com/in/eduardo-lorensetti-6863481a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a> 
+    <a href="https://www.linkedin.com/in/eduardo-lorensetti-6863481a5/](https://www.linkedin.com/in/eduardo-lorensetti-6863481a5/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC_tMcYBVLTUuReBabFXwX4dfG6SxkJNyiQ)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a> 
     <br>
     <br>
     
