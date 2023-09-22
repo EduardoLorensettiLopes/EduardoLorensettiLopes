@@ -1,6 +1,6 @@
 ### Hi there 📝
 
-<h2>I'm Eduardo Lorensetti, I'm 21 years old, I'm a Front End Programmer, currently I'm learning and creating projects with HTML | CSS | PYTHON | JS | NODE.js:</h2>
+<h2>I'm Eduardo Lorensetti, I'm 22 years old, I'm a Front End Programmer, currently I'm learning and creating projects with HTML | CSS | PYTHON | JS | NODE.js:</h2>
     <br>
     <a href="https://github.com/EduardoLorensettiLopes/project-analise-de-banco-de-dados-com-python/blob/master/main.py"><img width="90px" height="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="https://github.com/EduardoLorensettiLopes/We-Care-Project/blob/master/index.html"><img width="90px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"></a>
